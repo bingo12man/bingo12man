@@ -13,26 +13,33 @@
 
 ---
 
-## 🌀 Recent Projects & Research
-### 🔹 Intelligent Tutoring System
+## 💼 Experience
+
+### 🔹 **Software Engineer Intern** | *Griffin Open Systems, Chardon, USA* *(May 2023 – July 2023)*
+- Developed **real-time visual defect detection** for industrial processes using **Python & Apache Kafka**.
+- Achieved **81.25% accuracy** in identifying defects using **Edge Detection & Hough Transform**.
+- Improved system **scalability by 30%** by integrating real-time data pipelines.
+- Enhanced **object identification by 25%** using **Template Matching with cross-correlation**.
+
+### 🔹 **Research Intern** | *Samsung R&D Institute India, Bangalore, India* *(Sept 2020 – May 2021)*
+- Developed a **Machine Learning model** with **93.4% accuracy** for **text summarization**.
+- Built a **synthetic data pipeline** that improved grammar correction accuracy by **50%**.
+- Optimized ML models, reducing **prediction time by 40%**.
+- Automated **data preprocessing**, reducing preparation time by **25%**.
+
+---
+
+## 🌀 Projects
+
+### 🔹 **Intelligent Tutoring System**
 - Built an **AI-driven tutoring platform** using **OpenAI GPT-4** for real-time question answering.
 - Developed using **Flask (Backend)**, **Vue.js (Frontend)**, and **MongoDB** for data storage.
 - Deployed with **Kubernetes**, enhancing system management and reducing manual intervention.
 
-### 🔹 Smart Surveillance System
+### 🔹 **Smart Surveillance System**
 - Developed a **violence and gun detection system** with **89.25% accuracy** to enhance security.
 - Utilized **Deep Learning** for real-time object detection.
 - Integrated **WebSocket technology** for seamless data transmission and secure authentication.
-
-### 🔹 Real-time Visual Defect Detection *(Internship @ Griffin Open Systems)*
-- Created a **real-time defect detection system** for industrial processes, boosting **accuracy by 81.25%**.
-- Applied **Edge Detection & Hough Transform** for precise object identification.
-- Integrated **Python with Apache Kafka**, improving **scalability & responsiveness by 30%**.
-
-### 🔹 Machine Learning Model for Text Summarization *(Internship @ Samsung R&D)*
-- Designed an **ML model** achieving **93.4% accuracy** in predicting short summaries.
-- Developed an **automated data pipeline** to preprocess large datasets, reducing preparation time **by 25%**.
-- Enhanced grammar correction models, reducing errors by **50%** and improving writing clarity.
 
 ---
 
