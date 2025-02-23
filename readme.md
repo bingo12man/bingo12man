@@ -31,6 +31,12 @@
 
 ## 🌀 Projects
 
+### 🔹 **Music Recommendation System using Emotion Detection**
+- Developed an **AI-based music recommendation system** that detects emotions from **facial expressions**.
+- Used **OpenCV and CNNs** to classify emotions into categories like *Happy, Sad, Angry, Neutral*.
+- Integrated with **Spotify API** to suggest songs based on user emotions in real-time.
+- Achieved **87% accuracy** in emotion detection, enhancing user experience through personalized music.
+
 ### 🔹 **Intelligent Tutoring System**
 - Built an **AI-driven tutoring platform** using **OpenAI GPT-4** for real-time question answering.
 - Developed using **Flask (Backend)**, **Vue.js (Frontend)**, and **MongoDB** for data storage.
