@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me
-- 📚 **Master's in Computer Science** at **Illinois Institute of Technology** (Graduating May 2024).
+- 📚 **Master's in Computer Science** at **Illinois Institute of Technology**.
 - 🧠 Passionate about **AI, Machine Learning, and Software Engineering**.
 - 🚀 Experienced in **Backend & Frontend Development**, **Cloud Computing**, and **Real-time Data Processing**.
 - 🔬 Strong background in **ML Model Development, Image Processing, and Intelligent Systems**.
