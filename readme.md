@@ -37,11 +37,13 @@
 - Integrated with **Spotify API** to suggest songs based on user emotions in real-time.
 - Achieved **87% accuracy** in emotion detection, enhancing user experience through personalized music.
 
-### 🔹 **I-Quiz**  
-- Developed a **web-based quiz platform** where users can **attend quizzes**, and professionals can **create quiz questions** on various topics.  
-- Implemented **quiz rating and review system**, allowing users to leave feedback and rate quizzes.  
-- Designed a **separate answer review tab** for users to revisit their attempted quizzes.  
-- Integrated **user profiles** for tracking quiz history and performance.  
+### 🔹 Intelligent Tutoring System  
+
+- Developed an **AI-driven tutoring platform** leveraging **OpenAI GPT-4** to provide **personalized learning experiences**, answer questions, and offer real-time explanations across various subjects.  
+- Built using **Flask** for backend, **Vue.js** for the frontend, and **MongoDB** for storing user progress and learning content.  
+- Implemented **adaptive learning pathways**, allowing the system to tailor content recommendations based on user interactions and progress.  
+- Integrated **Kubernetes** for efficient backend service management, improving scalability and reducing manual intervention.  
+- Designed an **interactive dashboard** where students can track progress, revisit learning materials, and engage with AI-powered tutoring sessions.  
 
 ### 🔹 **Smart Surveillance System**
 - Developed a **violence and gun detection system** with **89.25% accuracy** to enhance security.
